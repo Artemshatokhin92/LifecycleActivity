@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifecycleActivity</string>
+    <string name="mainactivity">(1) MainActivity</string>
+    <string name="go_to_secondactivity">Go to SecondActivity</string>
+    <string name="secondactivity">(2) SecondActivity</string>
+    <string name="show_alertdialog">Show AlertDialog</string>
+</resources>
